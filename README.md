@@ -1,2 +1,6 @@
-# Git-Hands-on-Step2
+# メインブランチで変更
 Gitのハンズオン用のサンプルリポジトリ（応用編）
+
+# revert用commit変更
+
+gitの勉強はためになる
